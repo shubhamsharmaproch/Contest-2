@@ -1,0 +1,108 @@
+.navbar {
+    
+    display:flex;
+    background-color:black;
+    color:white;
+    justify-content:space-between;
+    margin-bottom:50px;
+    position:fixed;
+    height:40px;
+    margin-top:-10px;
+    padding:3px 23px;
+    width:95vw;
+    align-items:center;
+    top:0;
+    
+}
+
+ 
+  .main{
+    justify-content: space-between;
+    display:flex;
+    gap:25px;
+  }
+  .c:hover {
+    color:skyblue;
+  }
+.main a{
+
+    
+    text-decoration: none;
+    color:white;
+    
+}
+
+*{
+    
+    padding:0;
+    margin:0;
+    box-sizing: 0;
+}
+
+table:first-child {
+    margin:50px;
+    
+}
+
+table,
+td,
+th {
+    text-align: left;
+    border: 1px solid black;
+    border-collapse: collapse;
+    padding:20px;
+   width:200px;
+
+}
+.books{
+    border:3px solid black;
+    width:700px;
+    margin:50px auto;
+    border-radius: 5px;
+
+    
+}
+.text {
+    font-size:50px;
+    padding:10px;
+    margin:33px;
+    height:2px;
+   
+}
+
+.register {
+    border:3px solid black;
+    margin:33px auto;
+    padding:30px;
+    width: 600px;
+    border-radius: 5px;
+   
+
+}
+form {
+    border:1px solid black;
+    padding:20px;
+    margin:53px 23px;
+    
+}
+input {
+    width:500px;
+    margin:3px;
+    border-radius: 3px;;
+}
+lable {
+    font-weight:lighter;
+
+}
+
+button {
+    width:500px;
+    background-color: black;
+    color:white;
+    margin-top:20px;
+    border-radius: 4px;
+    margin-left:4px;
+
+
+}
+
